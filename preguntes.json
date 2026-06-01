@@ -1,0 +1,749 @@
+[
+  {
+    "question": "[M1] El poll de San José (Quadraspidiotus perniciosus) és:",
+    "options": [
+      "Una espècie d'insecte molt específica que només afecta els fruiters de llavor, principalment les pomeres i pereres.",
+      "Un lepidòpter molt polífag que afecta principalment els cultius extensius com el blat, l'ordi i l'alfals.",
+      "Una espècie d'insecte molt polífaga que pot afectar nombrosos cultius com la perera, la pomera, el presseguer, la prunera, el cirerer, l'albercoquer, etc."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M1] Els himenòpters:",
+    "options": [
+      "Són l'ordre d'insectes causants de les principals plagues dels cultius.",
+      "Són (en agricultura) més importants pels seus aspectes beneficiosos que no pas pels seus efectes perjudicials.",
+      "Són els que s'anomenen vulgarment xinxes."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M1] Les aranyes roges:",
+    "options": [
+      "Són àcars tetraníquids on destaquen les espècies Panonychus ulmi i Tetranychus urticae.",
+      "Són insectes del subordre dels homòpters on destaquen les espècies com Myzus persicae.",
+      "Són, en general, insectes beneficiosos per a l'agricultura."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M1] Els insectes:",
+    "options": [
+      "N'hi poden haver de beneficiosos com els depredadors, els parasitoides, els pol·linitzadors i els productors d'aliments.",
+      "Són sempre perjudicials per als cultius, essent els himenòpters i els ortòpters els ordres més nocius.",
+      "Quan són adults tenen el cos dividit en dues parts tòrax, abdomen i en algunes ocasions tenen un parell d'antenes."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M1] Els talps, ratolins, conills i senglars:",
+    "options": [
+      "Poden causar nombrosos danys als cultius i poden ser considerats com a plagues.",
+      "Mai seran considerats com a plagues, ja que són mamífers i no insectes o àcars.",
+      "Només els ratolins poden ser considerats com a plaga, ja que són micromamífers."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M1] Els fongs endoparàsits:",
+    "options": [
+      "Són aquells que es desenvolupen a l'interior dels teixits de les plantes.",
+      "Són aquells que es desenvolupen a l'exterior dels teixits de les plantes.",
+      "Són aquells que es poden desenvolupar tant a l'interior com a l'exterior dels teixits de les plantes."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M1] Els oïdis o cendroses són:",
+    "options": [
+      "Bacteris causants de malalties que afecten el coll de les plantes.",
+      "Fongs causants de malalties que afecten la part aèria de les plantes.",
+      "Organismes que provoquen malalties als feixos vasculars de les plantes."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M1] El foc bacterià:",
+    "options": [
+      "És una malaltia causada per un bacteri que es troba distribuïda àmpliament pel territori català.",
+      "És una malaltia molt agressiva en fruiters de llavor causada per un bacteri (Erwinia amylovora).",
+      "És una malaltia poc important en fruiters de llavor causada per un bacteri (Erwinia amylovora)."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M1] Els fitoplasmes:",
+    "options": [
+      "Són fongs unicel·lulars que provoquen malalties molt comuns en tot tipus de conreus.",
+      "Es transmeten molt ràpidament per l'aire o bé per la pluja.",
+      "Són considerats bacteris sense paret cel·lular i amb membrana citoplasmàtica."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M1] El bronzejat del tomàquet:",
+    "options": [
+      "És una malaltia causada per un virus que afecta principalment els tomàquets, els pebrots i l'enciam.",
+      "És una malaltia ocasionada per un bacteri i es troba en quarantena en Catalunya. Afecta principalment els cultius d'hivernacle.",
+      "Els folíols del tomàquet s'arrodoneixen i es cargolen en forma de cullera. Es transmet principalment per pugons (Myzus persicae)."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M1] Les plantes que formen part d'una coberta vegetal en fruiters de regadiu:",
+    "options": [
+      "Són considerades com a males herbes que competeixen amb el cultiu.",
+      "No es podrien considerar com a males herbes ja que són desitjables.",
+      "Són considerades com a males herbes ruderals."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M1] Les males herbes biennals:",
+    "options": [
+      "Són plantes herbàcies que viuen més d'un any i menys de dos. El primer any creixen vegetativament i el segon floreixen i produeixen llavors.",
+      "Són males herbes que com a mínim viuen dos anys, el primer any creixen vegetativament i els següents anys floreixen vàries vegades i produeixen llavors.",
+      "Són plantes llenyoses que viuen més de dos anys. La part aèria és visible durant tot el període desfavorable."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M1] El dent de lleó (Taraxacum officinale):",
+    "options": [
+      "És una mala herba anual molt freqüent en els cultius hortícoles en regadiu.",
+      "És una mala herba perenne molt comú en el conreu de l'olivera i l'ametller de secà.",
+      "És una mala herba vivaç, que pot sobreviure a la sega i per tant és freqüent trobar-la en cultius farratgers."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M1] Exemples de plantes dicotiledònies que poden esdevenir males herbes són:",
+    "options": [
+      "La ravenissa blanca, el blet blanc i la soja borda.",
+      "El margall, la cua de rata i el mill roig.",
+      "La canyota, la jonça i la cua de rata."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M1] Les males herbes arvenses:",
+    "options": [
+      "Són aquelles que ocupen les zones que envolten les construccions, les vores dels camins o carreteres i les vies del tren.",
+      "Són les que creixen de manera espontània en ambients no pertorbats per l'home.",
+      "Són plantes que conviuen i competeixen pels recursos amb els cultius."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M1] En la protecció fitosanitària integrada:",
+    "options": [
+      "No es pot fer servir cap tipus de producte fitosanitari de síntesi.",
+      "Limita l'aplicació de productes fitosanitaris als necessaris per a mantenir la població d'organismes patògens a uns nivells acceptables econòmicament.",
+      "Els tractaments fitosanitaris es basen en les recomanacions que donen els tècnics especialistes de les Estacions d'Avisos Agrícoles."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M1] El seguiment mitjançant l'observació visual directa:",
+    "options": [
+      "Serveix per plagues, per malalties i per males herbes.",
+      "Només serveix per plagues.",
+      "Només serveix per males herbes."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M1] Les feromones sexuals es poden utilitzar:",
+    "options": [
+      "Tant en trampes sexuals, com en confusió sexual, com en captura massiva.",
+      "Només per insectes de l'ordre dels coleòpters.",
+      "Tant en confusió sexual, com en el control autocida, com a inapetent."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M1] Les males herbes:",
+    "options": [
+      "Només es poden controlar eficaçment quan s'efectua una solarització del terreny.",
+      "En fruiters s'acostuma a ficar un plàstic negre entre línies per controlar-les eficaçment.",
+      "Les rotacions de cultius i una fertilització adequada ajuden a controlar-les."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M1] El control químic:",
+    "options": [
+      "És el mètode de control fitosanitari més eficaç i, per tant, s'hauria de fer servir sempre que sigui possible.",
+      "S'hauria de fer servir com a últim recurs un cop esgotades totes les altres tècniques de control.",
+      "Està prohibit en el control fitosanitari integrat."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M2] El producte tècnic d'un producte fitosanitari:",
+    "options": [
+      "Conté una alta concentració de matèria activa.",
+      "Conté substàncies que modifiquen i milloren les propietats físiques i químiques dels seus ingredients actius.",
+      "Es considera una substància adjuvant."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M2] En el formulat del producte fitosanitari, la substància amb activitat biocida s'anomena:",
+    "options": [
+      "Adjuvant.",
+      "Additiu.",
+      "Matèria activa."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M2] Un producte fitosanitari sistèmic és aquell que:",
+    "options": [
+      "S'aplica de forma sistemàtica.",
+      "Circula per la saba dels vegetals.",
+      "Afecta al sistema neurològic dels insectes."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M3] Un dels principals objectius de qualsevol tractament amb productes fitosanitaris hauria de ser:",
+    "options": [
+      "Protegir els conreus dels agents nocius que causen els danys tenint en compte la contaminació de l'operari i del medi ambient.",
+      "Protegir els conreus en el menor espai de temps possible.",
+      "Optimitzar la rendibilitat del tractament encara que aquest suposi un risc vers les persones, la fauna, el medi ambient i l'agricultura."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M3] En un tractament de productes fitosanitaris, els factors o condicionants que es poden modificar són:",
+    "options": [
+      "Els derivats del propi cultiu (estat fenològic de la planta i hàbits de vegetació).",
+      "Els derivats de l'agent nociu (tipus de patogen i danys produïts per aquest, al conreu).",
+      "Els derivats dels equips de tractament."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M3] Una de les mesures preventives per reduir el risc de contaminació durant la fase de preparació i neteja dels equips d'aplicació és:",
+    "options": [
+      "Disposar d'una vàlvula que permeti el retorn en el dispositiu d'ompliment del dipòsit.",
+      "Assegurar l'estanquitat del circuit de la màquina (dipòsit, bomba, conduccions, etc.) per evitar fuites de líquid.",
+      "Disposar de dispositius antigoteig en els orificis de sortida i entrada del dipòsit per tal d'evitar pèrdues de líquid durant la polvorització."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M3] Els tractaments aeris:",
+    "options": [
+      "Són els tractaments que presenten un risc més reduït de contaminació per deriva.",
+      "Són els tractaments que presenten un risc més elevat de contaminació per deriva.",
+      "Són els tractaments que no causen contaminació per deriva."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M3] Les aplicacions de productes fitosanitaris per polvorització es caracteritzen per:",
+    "options": [
+      "Distribuir preparats líquids.",
+      "Distribuir preparats sòlids.",
+      "Distribuir preparats gasosos."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M3] En una aplicació, les principals formes de generar gotes són per:",
+    "options": [
+      "Polvorització hidràulica i fumigació.",
+      "Fumigació i tractaments amb motxilla.",
+      "Polvorització hidràulica, pneumàtica i tèrmica."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M3] La formació de les gotes en la polvorització centrífuga es produeix:",
+    "options": [
+      "Per l'acció dels broquets.",
+      "Per l'acció del disc rotatori.",
+      "Per l'acció d'un corrent d'aire."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M3] La formació de les gotes en la polvorització pneumàtica es produeix:",
+    "options": [
+      "Per l'acció dels broquets.",
+      "Per l'acció de un disc rotatori.",
+      "Per l'acció d'un corrent d'aire."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M3] Per prevenir possibles accidents, abans d'iniciar la campanya de tractaments cal:",
+    "options": [
+      "Revisar els elements de seguretat dels equips: presa de força, transmissió i elements mòbils.",
+      "Revisar la barra de polvorització i sobretot verificar que la diferència d'alçada superi l'1% de la longitud total de treball.",
+      "Revisar el sistema de filtratge, verificar sobretot que no es pugui accedir a la malla de la carcassa per evitar manipulacions incorrectes."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M3] Després de fer un tractament, cal:",
+    "options": [
+      "Netejar amb aigua calenta l'exterior de l'equip.",
+      "Netejar solament el dipòsit.",
+      "Netejar l'interior de l'equip (dipòsit, conduccions, bomba, etc.), d'acord amb les bones pràctiques mediambientals."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M3] Els equips de tractament per polvorització tèrmica disposen de:",
+    "options": [
+      "Un circuit tèrmic per on circulen gasos calents a gran velocitat i d'un circuit hidràulic per on circula el preparat fitosanitari.",
+      "Un circuit tèrmic per on circulen gasos calents a gran velocitat i d'un circuit pneumàtic per on circula el preparat fitosanitari.",
+      "No disposen de cap circuit sinó que es basen en l'evaporació del líquid per calor."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M3] Els broquets de ventall uniforme són recomanables per a l'aplicació de:",
+    "options": [
+      "Herbicides en bandes.",
+      "Insecticides i fungicides en conreus arboris.",
+      "Solament per insecticides."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M3] Els difusors:",
+    "options": [
+      "Són la base dels polvoritzadors hidràulics.",
+      "Són la base dels polvoritzadors pneumàtics.",
+      "Únicament els porten els equips empolsadors."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M3] En les inspeccions realitzades als elements dels equips de tractament, es comprovarà sempre que:",
+    "options": [
+      "El manòmetre tingui una mida correcta i que sigui visible des del lloc del conductor.",
+      "La barra de polvorització disposi de protecció dels broquets en el cas que aquesta superi els 15 m de longitud.",
+      "La bomba sigui de membrana."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M3] Alguns dels paràmetres que cal fixar per regular correctament el polvoritzador són:",
+    "options": [
+      "El volum d'aplicació, la velocitat d'avanç i la densitat del líquid.",
+      "El volum d'aplicació, la velocitat d'avanç i la temperatura del líquid.",
+      "El volum d'aplicació, la velocitat d'avanç i el cabal del líquid."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M3] Un dels avantatges que presenten els tractaments d'aplicació directa és:",
+    "options": [
+      "Que són fàcilment mecanitzables.",
+      "Que ocasionen costos de mà d'obra moderats o baixos.",
+      "Que generen poques pèrdues de producte fora de l'àrea de tractament."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M3] L'endoteràpia és un tipus de tractament que:",
+    "options": [
+      "Es realitza sobre la superfície que cal tractar, utilitzant un pinzell impregnat amb el preparat fitosanitari.",
+      "Es realitza mitjançant la injecció del producte al circuit de reg.",
+      "Es realitza mitjançant la injecció del producte directament al tronc d'exemplars arboris."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M3] Les bombes de pistons dels equips de tractament:",
+    "options": [
+      "Poden treballar a pressions altes (< 60 bar) i resisteixen bastant bé l'abrasió.",
+      "Permeten treballar a pressions màximes de 20-30 bar.",
+      "Eleveu la pressió del brou gràcies a un rotor que gira a un elevat règim."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M3] Els broquets de ventall es caracteritzen per:",
+    "options": [
+      "Produir una polvorització de gotes molt petites.",
+      "Produir una polvorització de corona circular.",
+      "Produir una polvorització de raig pla en forma de campana."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M3] Els ventiladors helicoidals o de flux axial:",
+    "options": [
+      "Proporcionen cabals d'aire elevats (15-60.000 m³/h) a baixa velocitat (20-40 m/s).",
+      "Funcionen mitjançant una aspiració axial i una impulsió tangencial de l'aire.",
+      "Proporcionen cabals d'aire baixos (5-15.000 m³/h) a alta velocitat (50-100 m/s)."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M4] La traçabilitat és un sistema de garantia alimentària ja que:",
+    "options": [
+      "Fixa les normes bàsiques en relació a la seguretat i higiene dels aliments.",
+      "Estableix els protocols de control de la qualitat dels productes agroalimentaris.",
+      "Permet fer un seguiment d'un producte agroalimentari al llarg de tota la cadena alimentària."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M4] L'eina de gestió de la traçabilitat en els processos del sector agroalimentari és el Sistema d'anàlisi de perills i punts de control crític (APPCC), que consisteix:",
+    "options": [
+      "En una aplicació informàtica normalitzada, en la qual tots els agents que intervenen en la cadena alimentària han de registrar les incidències sofertes en els seus processos productius.",
+      "En un sistema d'anàlisi de les diferents etapes dels processos, per tal de detectar els riscos en cada pas de la producció agroalimentària i establir mesures correctores.",
+      "En un sistema de control administratiu, per garantir el compliment de la normativa vigent en relació a la seguretat i higiene dels aliments."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M4] Una de les obligacions dels empresaris en relació a la prevenció dels riscos laborals consisteix en l'elaboració de l'avaluació dels riscos de l'empresa. Aquest document:",
+    "options": [
+      "Assigna les diferents responsabilitats en relació a la prevenció dels riscos laborals dintre de l'empresa i, si cal, la contractació de serveis de prevenció externs.",
+      "Recull els resultats del seguiment mèdic dels treballadors, per tal de determinar si les mesures de protecció són les adequades.",
+      "És la base de la planificació de l'activitat preventiva, ja que permet determinar situacions potencialment perilloses en l'activitat de l'empresa."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M4] En relació a la prevenció dels riscos laborals, els treballadors:",
+    "options": [
+      "Tenen l'obligació, entre d'altres, de seguir les indicacions de l'empresari en relació a les mesures de prevenció i protecció.",
+      "No tenen cap obligació ja que la seguretat en el treball és responsabilitat de l'empresari.",
+      "Tenen l'obligació de formar-se en el camp de la protecció pel seu compte, i adquirir els equips de protecció que considerin necessaris."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M4] Els treballadors agraris per compte propi:",
+    "options": [
+      "Estan integrats en el Règim especial agrari, mentre no s'ocupin més de dos treballadors per compte aliè amb contracte de treball de durada determinada, i que el seu nombre total de jornals no superi els 546 a l'any.",
+      "Estan integrats en el Règim especial de treballadors autònoms i, si compleixen determinades condicions, en el Sistema especial per a treballadors per compte propi agraris.",
+      "Formen part del Règim general de la Seguretat Social des de l'1 de gener de 2008, segons estableix la Llei 18/2007, de 4 de juliol."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M4] Els tipus de cotització dels treballadors per compte propi agraris en concepte de contingències professionals:",
+    "options": [
+      "Es determinen en funció de la categoria professional del treballador.",
+      "És un valor fix de l'11,50%, que s'aplica a la base que correspon segons la categoria professional.",
+      "Es determinen en funció de l'activitat del treballador."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M4] La Directiva europea 91/414/CEE, relativa a la comercialització de productes fitosanitaris:",
+    "options": [
+      "Estableix que no es pot comercialitzar en el territori de la UE cap producte fitosanitari format per alguna substància activa que no estigui inclosa en la Llista comunitària de substàncies actives.",
+      "Determina les condicions que ha de complir un producte fitosanitari per a l'inscripció en el Registre oficial de productes i material fitosanitari.",
+      "Estableix les característiques mínimes exigibles als locals de comercialització de productes fitosanitaris."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M4] Per a la inscripció d'un producte en el Registre oficial de productes i material fitosanitari:",
+    "options": [
+      "El fabricant ha d'acreditar que s'han complert els requisits en quant a l'etiquetatge i envasat dels productes.",
+      "El fabricant ha de garantir que es tracta d'un producte innocu per a la salut humana i per al medi, a l'hora que fixa les dosis d'aplicació per a cada cultiu.",
+      "El fabricant ha de presentar la documentació necessària per acreditar, entre d'altres dades, les característiques toxicològiques del producte, la seva forma d'acció, els terminis de seguretat i les incompatibilitats amb altres productes."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M4] Un agricultor que dediqui part de la seva activitat a la realització de tractaments fitosanitaris per a altres explotacions (Registre d'establiments):",
+    "options": [
+      "No té l'obligació d'inscriure's al Registre oficial d'establiments i serveis plaguicides, ja que com a agricultor està exempt de complir la RTS.",
+      "Té l'obligació d'inscriure's en el Registre oficial d'establiments i serveis plaguicides, ja que realitza tractaments aliens a la seva explotació.",
+      "No té l'obligació d'inscriure's en el Registre oficial d'establiments i serveis plaguicides, sempre que no realitzi tractaments amb productes classificats com a molt tòxics (T+)."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M4] Un agricultor que dediqui part de la seva activitat a la realització de tractaments fitosanitaris per a altres explotacions (LOM):",
+    "options": [
+      "No té l'obligació de portar el LOM, ja que com a agricultor n'està exempt en tots els casos.",
+      "Té l'obligació de portar el LOM, ja que presta serveis de tractament a tercers.",
+      "Té l'obligació de portar el LOM si realitza tractaments amb productes classificats com a tòxics (T) o molt tòxics (T+)."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M4] El Reglament sobre l'emmagatzematge de productes químics:",
+    "options": [
+      "Determina quins locals d'emmagatzematge estan subjectes al seguiment de les instruccions tècniques complementàries, en funció del tipus i les quantitats de productes emmagatzemats.",
+      "És d'obligat compliment per a tots aquells (comerciants, transportistes, agricultors,...) que emmagatzemin productes classificats com a molt tòxics (T+), o que superin els 50 litres o 50 kg de productes tòxics (T).",
+      "Determina quins locals d'emmagatzematge estan subjectes al seguiment de les instruccions tècniques complementàries, en funció de la classe de matèria perillosa que es tracti."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M4] En un local d'una empresa de comercialització s'emmagatzemen 40 L de productes T+, 110 L de T i 460 L de Xn:",
+    "options": [
+      "Aquesta empresa està subjecta a les condicions derivades de la RTS i a les del Reial decret 379/2001.",
+      "Aquesta empresa està subjecta a les condicions derivades de la RTS però no a les del Reial decret 379/2001.",
+      "Aquesta empresa no està subjecta a les condicions derivades de la RTS ni a les del Reial decret 379/2001."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M4] Un distribuïdor transporta 250 kg de productes de la categoria de transport 2 i 350 kg de la categoria 3:",
+    "options": [
+      "El transport no està sotmès a l'ADR, ja que les quantitats dels productes de cada categoria no superen els màxims fixats.",
+      "El transport està sotmès a l'ADR, ja que la suma ponderada de les quantitats de productes, segons les categories de transport, és superior a 1.000 kg.",
+      "El transport està sotmès a l'ADR, ja que es transporten productes d'alta perillositat per a les persones i el medi."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M4] Un agricultor que transporta una cisterna amb brou per a la realització d'un tractament:",
+    "options": [
+      "No està sotmès a l'ADR en cap cas, ja que els agricultors que no realitzin tractament a tercers n'estan exempts.",
+      "Estarà sotmès a l'ADR si la quantitat de dissolució de la cisterna, i en funció de la seva categoria de transport, supera les quantitats màximes establertes.",
+      "Estarà sotmès a l'ADR si la quantitat de producte incorporat a la cisterna, i en funció de la seva categoria de transport, supera les quantitats màximes establertes."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M4] Els agricultors i/o responsables tècnics de les explotacions agràries que tinguin al seu càrrec personal que apliqui productes fitosanitaris, tenen l'obligació de disposar de:",
+    "options": [
+      "El carnet de nivell qualificat.",
+      "El carnet de fumigador.",
+      "El carnet de nivell bàsic."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M4] El registre sobre l'ús de productes fitosanitaris que han de realitzar els agricultors, ha de contenir informació referent a:",
+    "options": [
+      "Les dades del proveïdor dels productes classificats com a tòxics o molt tòxics i els tractaments que es realitzin amb aquests productes.",
+      "Els tractaments que es duguin a terme, les anàlisis de productes fitosanitaris que es realitzin i el producte vegetal o partida de collita.",
+      "Cada tractament que es dugui a terme, on s'especifiquin les mesures de prevenció preses per evitar riscos per a l'aplicador."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M4] Quan en un magatzem d'una explotació agrícola hi ha algun producte que ha quedat obsolet:",
+    "options": [
+      "S'ha d'eliminar, a través dels Sistemes integrats de gestió (SIG).",
+      "Cal aplicar-lo en el menor temps possible, ja que no es poden emmagatzemar productes obsolets.",
+      "S'ha d'eliminar, fent-lo arribar a un gestor de residus autoritzat."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M4] Un cop s'ha acabat un tractament cal gestionar les restes de brou, tenint en compte que:",
+    "options": [
+      "En cap cas es pot realitzar aquest procés al camp, cal portar el tractor i l'equip de tractament a un punt especialment habilitat.",
+      "Es pot realitzar aquest procés al camp, sempre que s'hagi fet un bon càlcul de la dosi d'aplicació i la quantitat restant sigui mínima, i es faci sempre en el mateix punt per evitar la dispersió de la contaminació.",
+      "Es pot realitzar aquest procés al camp, sempre que s'hagi fet un bon càlcul de la dosi d'aplicació i la quantitat restant sigui mínima, i no es faci sempre en un mateix punt per evitar l'acumulació de contaminació."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M4] Un cop preparat un tractament, els envasos dels productes fitosanitaris buits:",
+    "options": [
+      "S'han d'eliminar a través dels Sistemes integrats de gestió (SIG) o del Sistema de dipòsit, devolució i retorn (SDDR).",
+      "S'ha de realitzar el triple esbandit dels envasos i dipositar-los en un contenidor de recollida selectiva d'envasos (contenidor groc).",
+      "S'han de portar a un gestor de residus autoritzat per al seu correcte tractament."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M4] En relació a l'ús dels productes fitosanitaris, la condicionalitat estableix:",
+    "options": [
+      "El llistat de productes que es poden emprar i les condicions amb què s'han de fer, per tal de poder rebre ajuts de pagament directe.",
+      "La prioritat de la producció agrària ecològica respecte la convencional, a l'hora de repartir els ajuts de pagament directe.",
+      "Un conjunt de normes que s'han de seguir per tal de poder rebre ajuts de pagament directe."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M5] Es diu que una intoxicació és aguda quan:",
+    "options": [
+      "L'aparició dels símptomes és immediata a l'exposició del tòxic.",
+      "L'aparició dels símptomes es manifesta a llarg termini.",
+      "L'aparició dels símptomes apareixen entre les 48 hores i els 15 dies després de l'exposició al tòxic."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M5] Els riscos per a la salut, derivats de la utilització de productes fitosanitaris, depenen de l'efecte de:",
+    "options": [
+      "Només de la toxicitat de la substància.",
+      "Només del temps i la forma d'exposició al producte.",
+      "La toxicitat, el temps, la forma i altres."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M5] D'aquests tres factors, el que més pot influir en la perillositat d'un producte fitosanitari és:",
+    "options": [
+      "La dosi.",
+      "La forma de presentació.",
+      "La susceptibilitat de l'individu."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M5] La matèria activa deltametrín pertany a la família química dels:",
+    "options": [
+      "Organoclorats.",
+      "Piretroides.",
+      "Organofosforats."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M5] Els piretroides són insecticides:",
+    "options": [
+      "Amb baixa toxicitat per a les persones i animals terrestres.",
+      "Amb baixa toxicitat per a les persones i animals terrestres, però molt tòxics per als aquàtics.",
+      "Amb alta toxicitat per a les persones i animals terrestres."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M5] La Llei de prevenció de riscos laborals obliga a aplicar mesures preventives:",
+    "options": [
+      "Solament als treballadors.",
+      "Solament als empresaris.",
+      "Tant als treballadors com als empresaris."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M5] Les sigles PAS volen dir:",
+    "options": [
+      "Protegir, avisar i socórrer.",
+      "Prevenir, avisar i socórrer.",
+      "Protegir, avisar i solucionar."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M5] Davant una persona possiblement intoxicada s'ha d'actuar:",
+    "options": [
+      "Provocant-li el vòmit sempre.",
+      "Administrant-li alguna beguda.",
+      "Traslladant-la urgentment a un centre hospitalari."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M5] En la planificació de les mesures de seguretat per al treballador, té prioritat:",
+    "options": [
+      "La protecció individual.",
+      "La protecció col·lectiva.",
+      "És indiferent una que l'altra."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M5] De les següents mesures de seguretat en el transport de productes fitosanitaris, la mesura incorrecta és:",
+    "options": [
+      "Immobilitzar els envasos per evitar el vessament del seu contingut.",
+      "Transportar els productes en vehicles a l'aire lliure.",
+      "Transportar-los en els seus envasos originals."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M5] Es pot tocar el producte fitosanitari amb les mans durant la preparació del brou:",
+    "options": [
+      "Sempre que després de l'operació es netegin amb aigua i sabó.",
+      "Sempre que es rentin quan s'embrutin.",
+      "Mai, cal protegir-les sempre adequadament."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M5] La realització de la dosificació i la càrrega del plaguicida a l'equip de tractament, és més segura:",
+    "options": [
+      "En espais tancats.",
+      "A l'aire lliure.",
+      "El lloc és indiferent."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M5] Des del punt de vista de la seguretat de l'aplicador, s'aconsella realitzar el tractament:",
+    "options": [
+      "Quan fa calor i vent.",
+      "Quan fa calor, però no vent.",
+      "Quan no fa ni vent ni calor."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M5] Els envasos buits dels productes fitosanitaris s'han de:",
+    "options": [
+      "Llençar a la brossa.",
+      "Confiar a entitats gestores per al seu correcte tractament.",
+      "Rentar amb lleixiu i tirar a la brossa."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M5] L'empresari està obligat a:",
+    "options": [
+      "Proporcionar els EPI als treballadors gratuïtament.",
+      "Escollir aquells que estiguin homologats per a l'ús específic que es necessiti.",
+      "Les dues anteriors són correctes."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "[M5] Els equips de protecció cutània estan indicats per:",
+    "options": [
+      "Protegir els peus i les mans.",
+      "Aïllar la pell del treballador dels efectes dels compostos químics.",
+      "Protegir només la cara."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M5] Els equips de protecció respiratòria més utilitzats en l'aplicació de productes fitosanitaris són:",
+    "options": [
+      "Els equips filtrants o dependents del medi ambient.",
+      "Els equips de subministrament d'aire o independents del medi ambient.",
+      "Els equips de respiració natural."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M5] La codificació P3 en un filtre d'una màscara indica:",
+    "options": [
+      "El grau de protecció que ens ofereix el filtre.",
+      "Que només filtra partícules d'una mida de 3 micres.",
+      "Que la capacitat de filtrat és de 3 partícules per minut."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "[M5] Un dispositiu de filtrat que dugui marcades les lletres FFP1 indica que es tracta de:",
+    "options": [
+      "Un equip autofiltrant amb poder de retenció alt.",
+      "Un equip autofiltrant amb poder de retenció baix.",
+      "Un equip autofiltrant amb poder de retenció mitjà."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "[M5] Un dispositiu de filtrat que dugui marcades les lletres P3SL indica que es tracta de:",
+    "options": [
+      "Un filtre amb un poder de retenció màxim de partícules líquides.",
+      "Un filtre amb un poder de retenció màxim enfront de partícules sòlides i aerosols que contenen oli.",
+      "Un filtre amb un poder de retenció màxim enfront de gasos i vapors orgànics."
+    ],
+    "answer": 1
+  }
+]
